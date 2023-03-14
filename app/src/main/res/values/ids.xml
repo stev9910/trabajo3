@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txtPrimerNumero" type="id" />
+    <item name="txtPrimerNumero" type="id" />
+    <item name="txtSegundoNumero" type="id" />
+    <item name="etiquetaSuma" type="id" />
+    <item name="etiquetaMultiplicacion" type="id" />
+    <item name="botonOperacion" type="id" />
+</resources>
